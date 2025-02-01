@@ -1,0 +1,2 @@
+# Uncommon React useEffect Hook Error
+This repository demonstrates a common error encountered when using the `useEffect` hook in React: an infinite loop. The error occurs when the state updated within the `useEffect` hook causes the component to re-render infinitely.  The solution involves proper dependency management. 
